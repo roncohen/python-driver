@@ -1,7 +1,7 @@
 #ifndef __PYCCASSANDRA_CQLTYPES
 #define __PYCCASSANDRA_CQLTYPES
 #include <vector>
-
+#include <string>
 #include "buffer.hpp"
 #include "python.hpp"
 
